@@ -88,7 +88,7 @@ The result is a focused application that connects everyday freelance project man
 
 | Layer | Technology |
 | --- | --- |
-| Backend | PHP 8.2+, Laravel 12 |
+| Backend | PHP 8.4+, Laravel 12 and Composer 2 |
 | Frontend | Blade, CSS |
 | Database | SQLite |
 | Testing | PHPUnit |
